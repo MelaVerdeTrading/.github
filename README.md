@@ -28,4 +28,4 @@ We are always open to collaborations and contributions from talented individuals
 
 Contact Us
 
-For more information, partnership inquiries, or other questions, please contact us at info@melaverde.io
+For more information, partnership inquiries, or other questions, please visit our website at www.melaverde.io or contact us at info@melaverde.io
