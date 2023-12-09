@@ -1,4 +1,5 @@
 Mela Verde Trading - High Frequency Trading Algorithms
+
 About Us
 Welcome to the GitHub repository of Mela Verde Trading, a cutting-edge proprietary trading firm specializing in high-frequency algorithmic trading. Our focus is on developing and deploying sophisticated algorithms designed for Market Making  
 or liquidity provision in the rapidly evolving world of decentralized finance.
