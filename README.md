@@ -7,9 +7,12 @@ or liquidity provision in the rapidly evolving world of decentralized finance.
 
 Our Vision
 
-Mela Verde’s investment thesis is rooted in risk management. Instead of attempting to forecast market movements, we focus on reacting optimally to market behaviour. Our guiding principle is simple: we've chosen to invest in the highest-performing asset class in history, and our aim is to remain invested for the long haul. Whether we're employing high-frequency strategies or long-term investments, our objective remains constant: maximize time in the market to optimize chances of success. Using advanced technology and proprietary algorithms, we work tirelessly to mitigate downside risk.
+Mela Verde’s investment thesis is rooted in risk management. Instead of attempting to forecast market movements, we focus on reacting optimally to market behaviour. Our guiding principle is simple: we've chosen to invest in the highest-performing 
+asset class in history, and our aim is to remain invested for the long haul. Whether we're employing high-frequency strategies or long-term investments, our objective remains constant: maximize time in the market to optimize chances of success. 
+Using advanced technology and proprietary algorithms, we work tirelessly to mitigate downside risk.
 
 Our Algorithms
+
 Our algorithms are the core of our trading operations. They are designed to:
 
 Provide liquidity to decentralized financial exchanges.
